@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T14:49:33 CDT" name="Inetbanking" finished-at="2023-06-14T14:50:01 CDT" duration-ms="27541">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T14:49:33 CDT" name="Banking App" finished-at="2023-06-14T14:50:01 CDT" duration-ms="27541">
+      <class name="com.inetbanking.testCase.TC_AddCustomer_003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetbanking.testCase.TC_AddCustomer_003@4be29ed9]" started-at="2023-06-14T14:49:45 CDT" name="setup" finished-at="2023-06-14T14:49:47 CDT" duration-ms="2421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addCustomer()[pri:0, instance:com.inetbanking.testCase.TC_AddCustomer_003@4be29ed9]" started-at="2023-06-14T14:49:47 CDT" name="addCustomer" finished-at="2023-06-14T14:50:00 CDT" duration-ms="13272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.testCase.TC_AddCustomer_003@4be29ed9]" started-at="2023-06-14T14:50:00 CDT" name="teardown" finished-at="2023-06-14T14:50:01 CDT" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.testCase.TC_AddCustomer_003 -->
+      <class name="com.inetbanking.testCase.TC_Logintest_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.inetbanking.testCase.TC_Logintest_001@74e28667]" started-at="2023-06-14T14:49:34 CDT" name="setup" finished-at="2023-06-14T14:49:40 CDT" duration-ms="6687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.testCase.TC_Logintest_001@74e28667]" started-at="2023-06-14T14:49:40 CDT" name="loginTest" finished-at="2023-06-14T14:49:44 CDT" duration-ms="3646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.testCase.TC_Logintest_001@74e28667]" started-at="2023-06-14T14:49:44 CDT" name="teardown" finished-at="2023-06-14T14:49:45 CDT" duration-ms="581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.testCase.TC_Logintest_001 -->
+    </test> <!-- Banking App -->
+  </suite> <!-- Inetbanking -->
+</testng-results>
